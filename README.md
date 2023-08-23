@@ -1,2 +1,1 @@
-# .github
-Frontpage
+### If your a software company, your a payments company
