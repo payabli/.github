@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-## If your a software company, your a payments company.
+## If you're a software company, you're a payments company!
