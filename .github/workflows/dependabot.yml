@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directories:
+      - "/src/*"
+      - "/tests/*"
+      - "api-core/*"               
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-name: "Payabli.*"
+    open-pull-requests-limit: 20
