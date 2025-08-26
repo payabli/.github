@@ -1,1 +1,1 @@
-### If your a software company, your a payments company
+### If you're a software company, your a payments company
