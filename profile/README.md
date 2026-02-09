@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://files.buildwithfern.com/payabli.docs.buildwithfern.com/26f9a9998f0ccbebc2ba295c73eb64393f9bb331b6aac7c59bbdf6b744ff6122/assets/logo-dark-mode.svg">
-  <img  style="max-width: 200px; margin: 1em" src="https://files.buildwithfern.com/payabli.docs.buildwithfern.com/4f1b3895b414d6115c4e3cf0338be85369c8d6800d39dea768134f2918807d6a/assets/logo-light-mode.svg" alt="Payabli Logo">
+  <img  src="https://files.buildwithfern.com/payabli.docs.buildwithfern.com/4f1b3895b414d6115c4e3cf0338be85369c8d6800d39dea768134f2918807d6a/assets/logo-light-mode.svg" alt="Payabli Logo" width="200">
 </picture>
 
 This page contains links to Payabli's developer resources and SDKs. Contributions are welcome! If you have suggestions for improving the developer experience at Payabli, please submit an issue or reach out to the team.
