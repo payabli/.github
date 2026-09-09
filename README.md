@@ -17,9 +17,8 @@ This page contains links to Payabli's developer resources and SDKs. Contribution
 ## 🛠️ Developer tools
 
 - [Payabli MCP server](https://docs.payabli.com/developers/platform-developer-mcp)
+- [Payabli agent skills](https://docs.payabli.com/developers/platform-developer-agent-skills)
 - [Postman workspace](https://www.postman.com/payabli-docs/payabli-api-workspace/overview)
-- [Embedded component playground](https://playground.payabli.com/)
-- [Query CLI app](https://github.com/payabli/payquery-cli)
 
 ## 📦 Server SDKs
 
